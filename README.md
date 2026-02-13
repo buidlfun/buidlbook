@@ -4,7 +4,7 @@
 
 > VCs are slow, biased, and gatekept. BUIDL replaces the old model with AI agents that do due diligence 24/7.
 
-🔗 **Live:** [buidl-incubator.vercel.app](https://buidl-incubator.vercel.app)
+🔗 **Live:** [buidlfun.xyz](https://buidlfun.xyz/)
 🐦 **Twitter:** [@buidldao_](https://x.com/buidldao_)
 
 ---
